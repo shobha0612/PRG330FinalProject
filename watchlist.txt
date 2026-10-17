@@ -1,0 +1,31 @@
+# Watchlist for the auto-trader: one S&P 500 ticker per line.
+# Lines starting with # are ignored. Add or remove tickers freely.
+
+# Technology
+AAPL
+MSFT
+NVDA
+# Healthcare
+JNJ
+UNH
+# Financial Services
+JPM
+V
+# Consumer Defensive (staples / retail)
+WMT
+KO
+PG
+# Consumer Cyclical
+HD
+MCD
+# Industrials
+CAT
+HON
+# Energy
+XOM
+# Utilities
+NEE
+# Communication Services
+GOOGL
+# Real Estate
+PLD

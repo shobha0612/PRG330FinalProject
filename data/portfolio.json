@@ -1,0 +1,56 @@
+{
+    "cash": 61178.77949523926,
+    "holdings": {
+        "AAPL": {
+            "shares": 11,
+            "avg_price": 333.69000244140625,
+            "sector": "Technology"
+        },
+        "MSFT": {
+            "shares": 7,
+            "avg_price": 517.530029296875,
+            "sector": "Technology"
+        },
+        "NVDA": {
+            "shares": 17,
+            "avg_price": 233.9499969482422,
+            "sector": "Technology"
+        },
+        "JNJ": {
+            "shares": 15,
+            "avg_price": 256.0299987792969,
+            "sector": "Healthcare"
+        },
+        "JPM": {
+            "shares": 12,
+            "avg_price": 332.3800048828125,
+            "sector": "Financial Services"
+        },
+        "V": {
+            "shares": 11,
+            "avg_price": 360.6600036621094,
+            "sector": "Financial Services"
+        },
+        "KO": {
+            "shares": 46,
+            "avg_price": 85.6500015258789,
+            "sector": "Consumer Defensive"
+        },
+        "PG": {
+            "shares": 27,
+            "avg_price": 144.91000366210938,
+            "sector": "Consumer Defensive"
+        },
+        "HD": {
+            "shares": 14,
+            "avg_price": 282.8500061035156,
+            "sector": "Consumer Cyclical"
+        },
+        "MCD": {
+            "shares": 17,
+            "avg_price": 231.88999938964844,
+            "sector": "Consumer Cyclical"
+        }
+    },
+    "pending_orders": []
+}

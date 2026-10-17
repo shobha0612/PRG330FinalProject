@@ -1,0 +1,12 @@
+symbol,sector,shares,avg_price,current_price,value,allocation_percent,high_concentration
+AAPL,Technology,11,333.69,333.69,3670.59,3.67,NO
+MSFT,Technology,7,517.53,517.53,3622.71,3.62,NO
+NVDA,Technology,17,233.95,233.95,3977.15,3.98,NO
+JNJ,Healthcare,15,256.03,256.03,3840.45,3.84,NO
+JPM,Financial Services,12,332.38,332.38,3988.56,3.99,NO
+V,Financial Services,11,360.66,360.66,3967.26,3.97,NO
+KO,Consumer Defensive,46,85.65,85.65,3939.9,3.94,NO
+PG,Consumer Defensive,27,144.91,144.91,3912.57,3.91,NO
+HD,Consumer Cyclical,14,282.85,282.85,3959.9,3.96,NO
+MCD,Consumer Cyclical,17,231.89,231.89,3942.13,3.94,NO
+CASH,,,,,61178.78,,
